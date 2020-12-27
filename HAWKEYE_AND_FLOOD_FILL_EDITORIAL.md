@@ -16,4 +16,4 @@ To calculate the power at any given index x1,y1 you have to subtract maximum of 
           distance = max(abs(x-i), abs(y-j))
           impactAtCurrentIndex = (power - distance) > 0 ? (power - distance) : 0
           
-The reason why I am not publising the working soultion is I want the you to code if yourself after undertanding. Although if you still want the working solution, you can find it [here](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/hawkeye-and-floodfill/editorial/) PS: it's not well coded for understanding, hence keeping my intent intact of you solving it by your self :-p 
+The reason why I am not publising the working soultion is I want you to code if yourself after undertanding. Although if you still want the working solution, you can find it [here](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/hawkeye-and-floodfill/editorial/) PS: it's not well coded for understanding, hence keeping my intent intact of you solving it by yourself :-p 
